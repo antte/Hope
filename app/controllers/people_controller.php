@@ -9,4 +9,5 @@
 		function index() {
 			 $this->set('people', $this->Person->find('all'));
 		}
+		
 	}
