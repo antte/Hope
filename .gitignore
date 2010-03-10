@@ -1,2 +1,4 @@
 app/tmp
 vendors
+/app/config/database.php
+/.project
