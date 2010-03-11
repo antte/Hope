@@ -11,6 +11,6 @@
 		}
 		
 		function view($id) {
-			$this->set('person', $this->Person->find('all',array( 'conditions' => array('id' => $id))));
-		}
+			$this->set('person', $this->Person->find('all',array( 'conditions' => array('id' => $id), 'fields'=>array('name','email'))));
+		}	
 	}
