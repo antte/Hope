@@ -1,6 +1,10 @@
+<<<<<<< .merge_file_I3hIBm
 
 tim
 olle svensson
 
 
 
+=======
+olle svensson
+>>>>>>> .merge_file_hqbs22
